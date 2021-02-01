@@ -1,5 +1,5 @@
 //var headerRows = 3;
-//var CALID_COL = "R";
+//var CALID_COL = "Q";
 //var MEMO_COL  = "M";
 //var CHECK_COL = "C";
 //
