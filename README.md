@@ -4,7 +4,7 @@
 ![Imgur](https://i.imgur.com/NwEkyTU.png)
 
 ### インストール
-1. [ここ](https://docs.google.com/spreadsheets/d/1Q5FFsnICgQLiwUqzaLrHTg1B_tGYZ04QsYjYEm9WPEQ/copy)をクリックして、自分のGoogleドライブにシートをコピー
+1. [ここ](https://docs.google.com/spreadsheets/d/1PRJW2GHr1rI560vZ-jKF4S7Aum_JCjx8gQIx0Rsc2FA/edit#gid=788325716)をクリックして、自分のGoogleドライブにシートをコピー
 1. Googleにログインした状態で上のメニューから「管理 ＞ 今月の予定表」を作成をクリック
 1. 承認ダイアログが出てきたら許可する（[参考記事](https://www.virment.com/step-allow-google-apps-script/)）
 1. 「ロット」シートの希望品表にメンバーの名前を記入
