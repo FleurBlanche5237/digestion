@@ -1,7 +1,7 @@
 # xivraidteam
 - 固定管理用スプレッドシートです。希望品・ロット管理、スケジュール管理ができます。  
 ![Imgur](https://i.imgur.com/mzQrCJZ.png)
-![Imgur](https://i.imgur.com/NwEkyTU.png)
+![Imgur](https://i.imgur.com/NwEkyTU.png) 
 
 ### インストール
 1. [ここ](https://docs.google.com/spreadsheets/d/1PRJW2GHr1rI560vZ-jKF4S7Aum_JCjx8gQIx0Rsc2FA/edit#gid=788325716)をクリックして、自分のGoogleドライブにシートをコピー
